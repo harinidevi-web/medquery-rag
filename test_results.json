@@ -1,0 +1,65 @@
+[
+  {
+    "query": "first line treatment for gonorrhoea",
+    "status": "PASS",
+    "score": 0.988085,
+    "source": "STI-Guidelines-2021",
+    "keyword_ok": true
+  },
+  {
+    "query": "recommended treatment for chlamydia in adults",
+    "status": "PASS",
+    "score": 0.98439646,
+    "source": "STI-Guidelines-2021",
+    "keyword_ok": true
+  },
+  {
+    "query": "syphilis treatment during pregnancy",
+    "status": "PASS",
+    "score": 0.9992505,
+    "source": "STI-Guidelines-2021",
+    "keyword_ok": true
+  },
+  {
+    "query": "HIV pre-exposure prophylaxis dosage",
+    "status": "PASS",
+    "score": 0.9298237,
+    "source": "STI-Guidelines-2021",
+    "keyword_ok": true
+  },
+  {
+    "query": "blood pressure target for hypertension in adults",
+    "status": "PASS",
+    "score": 0.99788433,
+    "source": "NICE-NG136-hypertension",
+    "keyword_ok": true
+  },
+  {
+    "query": "first line antihypertensive drug treatment",
+    "status": "FAIL",
+    "score": 0.8889517,
+    "source": "NICE-NG136-hypertension",
+    "keyword_ok": false
+  },
+  {
+    "query": "HbA1c target for type 2 diabetes",
+    "status": "PASS",
+    "score": 0.99804294,
+    "source": "NICE-NG28-diabetes",
+    "keyword_ok": true
+  },
+  {
+    "query": "metformin dosage for type 2 diabetes",
+    "status": "PASS",
+    "score": 0.91212356,
+    "source": "NICE-NG28-diabetes",
+    "keyword_ok": true
+  },
+  {
+    "query": "cardiovascular risk assessment",
+    "status": "PASS",
+    "score": 0.99698395,
+    "source": "WHO-hypertension-2021",
+    "keyword_ok": true
+  }
+]

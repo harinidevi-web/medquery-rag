@@ -1,0 +1,30 @@
+{
+  "STI-Guidelines-2021": {
+    "version": "2021-07",
+    "ingested_at": "2026-04-07T08:34:07.729382+00:00",
+    "pdf_path": "data/raw/STI-Guidelines-2021.pdf",
+    "chunk_count": 10009,
+    "parent_count": 1661
+  },
+  "NICE-NG136-hypertension": {
+    "version": "2023-11",
+    "ingested_at": "2026-04-14T12:27:55.784924+00:00",
+    "pdf_path": "data/raw/NICE-NG136-hypertension.pdf",
+    "chunk_count": 1052,
+    "parent_count": 160
+  },
+  "NICE-NG28-diabetes": {
+    "version": "2022-06",
+    "ingested_at": "2026-04-16T07:44:02.801193+00:00",
+    "pdf_path": "data/raw/NICE-NG28-diabetes.pdf",
+    "chunk_count": 2294,
+    "parent_count": 358
+  },
+  "WHO-hypertension-2021": {
+    "version": "2021-08",
+    "ingested_at": "2026-04-16T07:53:37.247245+00:00",
+    "pdf_path": "data/raw/WHO-hypertension-2021.pdf",
+    "chunk_count": 1471,
+    "parent_count": 253
+  }
+}
