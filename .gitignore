@@ -17,3 +17,7 @@ __pycache__/
 
 # Raw PDFs (too large for GitHub)
 data/raw/
+
+documents/parents.json
+documents/registry.json
+test_results.json
