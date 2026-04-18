@@ -28,3 +28,14 @@ cp .env.example .env  # add your Cohere API key
 python run_ingestion.py
 python test_retrieval_full.py
 ```
+## Setup
+
+1. Clone the repo
+2. Install dependencies: `pip install -r requirements.txt`
+3. Copy `.env.example` to `.env` and add your Cohere API key
+4. Download PDFs to `data/raw/` (see sources.py for URLs)
+5. Run ingestion: `python run_ingestion.py`
+6. Test retrieval: `python test_retrieval_full.py`
+
+> `documents/parents.json` and `documents/registry.json` are generated 
+> automatically by the ingestion pipeline — do not commit them.
